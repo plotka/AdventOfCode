@@ -1,0 +1,3 @@
+turn on 0,0 through 1,1
+turn on 5,5 through 7,8
+turn off 0,0 through 1,1
